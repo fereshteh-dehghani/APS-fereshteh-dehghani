@@ -25,8 +25,14 @@ console.log(year+1);//this is a string in console
 let strNumber="14582369";
 console.log(strNumber+14526987);//this is string in console.
 /////////////////////////////////////////////////////
-let animals="panguane";
+let animals="  pANguaNe  ";
 console.log(animals.toUpperCase());
 console.log(animals.toLowerCase());
-
+console.log(animals.trim());
 ///////////////////////////////////////
+let name="aida bahar maryam shirin";
+console.log(name.slice(1));
+console.log(name.indexOf(b));
+console.log(name.replace(" ","_"));
+
+
