@@ -47,4 +47,4 @@ console.log( getBestStudent({
   John: [100, 90, 80],
   Bob: [100, 100, 20],
   sara:[100,100,100]
-}))
+}))     s
