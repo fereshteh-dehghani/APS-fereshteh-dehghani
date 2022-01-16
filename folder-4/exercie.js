@@ -36,5 +36,10 @@ console.log(name.indexOf('b'));
 console.log(name.replaceAll(" ","_"));
 console.log(name.repeat(10));
 /////////////////////////////////////////////////////
+const str='skateboard';
+let strSlice=str.slice(5);
+console.log(strSlice.replace('o','e'));
+/////////////////////////////////////////////////////////////////
+
 
 
