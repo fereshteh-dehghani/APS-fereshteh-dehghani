@@ -32,7 +32,9 @@ console.log(animals.trim());
 ///////////////////////////////////////
 let name="aida bahar maryam shirin";
 console.log(name.slice(1));
-console.log(name.indexOf(b));
-console.log(name.replace(" ","_"));
+console.log(name.indexOf('b'));
+console.log(name.replaceAll(" ","_"));
+console.log(name.repeat(10));
+/////////////////////////////////////////////////////
 
 
