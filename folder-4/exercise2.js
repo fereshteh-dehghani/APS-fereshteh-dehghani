@@ -17,4 +17,18 @@ if(number%2===0){
 }else{
     alert(`${number} is a odd number`);
 }
+///////////////////////////////////////////////////////////////////////
+////////////////////// Terafical Signal //////////////////////////////
+let teraficStr='go';
+if(teraficStr==='stop'){
+    console.log(`Red`);
+}else if (teraficStr==='slow'){
+    console.log('yellow');
+
+}else if (teraficStr==='go'){
+    console.log('green');
+}else{
+    console.log('purple');
+}
+
 
