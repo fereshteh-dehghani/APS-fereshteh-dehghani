@@ -19,13 +19,13 @@ if(number%2===0){
 }
 ///////////////////////////////////////////////////////////////////////
 ////////////////////// Terafical Signal //////////////////////////////
-let teraficStr='go';
-if(teraficStr==='stop'){
+let trafficStr='stop';
+if(trafficStr==='stop'){
     console.log(`Red`);
-}else if (teraficStr==='slow'){
+}else if (trafficStr==='slow'){
     console.log('yellow');
 
-}else if (teraficStr==='go'){
+}else if (trafficStr==='go'){
     console.log('green');
 }else{
     console.log('purple');
